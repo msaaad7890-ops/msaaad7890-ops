@@ -25,28 +25,40 @@
 
 ### 🧠 Who I Am
 
-```typescript
-const muhammadSaad = {
-  title: "CS Student",
-  stack: {
-    languages: ["HTML", "CSS", "JavaScript", "Python"],
-    frontend: ["React.js", "Tailwind CSS"],
-    backend: ["Node.js"],
-    database: ["MySQL"],
-    dataScience: ["Python", "Data Analysis"],
-  },
-  launchedProjects: [
-    // 🔧 Add your project repo names here
-    "project-repo-1",
-    "project-repo-2",
-  ],
-  certifications: [
-    // 🔧 Add your certifications here
-  ],
-  status: "Learning & Building",
-  openTo: ["Internships", "Collaborations", "Freelance Projects"],
-};
-```
+<table width="100%">
+<tr>
+<td width="30%" valign="top">
+
+**🎓 Title**
+CS Student
+
+**📌 Status**
+Learning & Building
+
+</td>
+<td width="70%" valign="top">
+
+**💻 Stack**
+
+![HTML](https://img.shields.io/badge/-HTML-7dd3fc?style=flat-square&logoColor=black)
+![CSS](https://img.shields.io/badge/-CSS-7dd3fc?style=flat-square&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-7dd3fc?style=flat-square&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-7dd3fc?style=flat-square&logoColor=black)
+![React](https://img.shields.io/badge/-React.js-7dd3fc?style=flat-square&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-7dd3fc?style=flat-square&logoColor=black)
+![Node](https://img.shields.io/badge/-Node.js-7dd3fc?style=flat-square&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-7dd3fc?style=flat-square&logoColor=black)
+![Data Science](https://img.shields.io/badge/-Data_Science-7dd3fc?style=flat-square&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+| 🚀 Launched Projects | 🏆 Certifications | 🎯 Open To |
+|---|---|---|
+| *(add your repo names here)* | *(add your certifications here)* | Internships |
+| — | — | Collaborations |
+| — | — | Freelance Projects |
 
 ---
 
