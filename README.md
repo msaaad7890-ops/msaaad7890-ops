@@ -1,64 +1,67 @@
 <div align="center">
 
-<!-- Waving Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7dd3fc&height=220&section=header&text=Hi,%20I'm%20Muhammad%20Saad&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CS%20Student%20%7C%20Full%20Stack%20%26%20Data%20Science%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Hi%20There,%20I'm%20%5BYour%20Name%5D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20clean,%20scalable%20systems%20one%20commit%20at%20a%20time&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=CS+Student+%7C+Aspiring+Software+Engineer;Building+with+the+MERN+Stack;Exploring+Data+Science+with+Python;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+don't+just+write+code%2C+I+engineer+solutions;Turning+complex+problems+into+elegant+systems;Full+Stack+Developer+%7C+Cloud+%26+Open+Source+Enthusiast" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Open to Work Badge -->
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=briefcase&logoColor=black)
-
-<br/>
-
-<!-- Profile Views + Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=msaaad7890-ops&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/msaaad7890-ops?style=for-the-badge&color=7dd3fc&labelColor=0d1117)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_handle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
 ---
 
-### 🧠 Who I Am
+### 👋 About Me
 
-<table width="100%">
-<tr>
-<td width="30%" valign="top">
+I'm a **Full Stack Developer** who thrives on turning ambiguous problems into reliable, production-grade systems. My focus is on writing code that's not just functional today, but maintainable, scalable, and boring-in-a-good-way six months from now. I'm driven by the intersection of clean architecture and real-world impact — I'd rather ship something simple that works than something clever that breaks.
 
-**🎓 Title**
-CS Student
+- 🔭 I'm currently working on **a distributed task-scheduling platform built with Node.js and Docker**
+- 🌱 I'm currently learning **Kubernetes and event-driven architecture**
+- 👯 I'm looking to collaborate on **open-source developer tooling and API frameworks**
+- 💬 Ask me about **React, PostgreSQL query optimization, or CI/CD pipelines**
+- ⚡ Fun fact: **I debug better after refactoring the problem into a diagram first**
 
-**📌 Status**
-Learning & Building
+---
 
-</td>
-<td width="70%" valign="top">
+### 🛠️ Tech Stack
 
-**💻 Stack**
+<div align="center">
 
-![HTML](https://img.shields.io/badge/-HTML-7dd3fc?style=flat-square&logoColor=black)
-![CSS](https://img.shields.io/badge/-CSS-7dd3fc?style=flat-square&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-7dd3fc?style=flat-square&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-7dd3fc?style=flat-square&logoColor=black)
-![React](https://img.shields.io/badge/-React.js-7dd3fc?style=flat-square&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-7dd3fc?style=flat-square&logoColor=black)
-![Node](https://img.shields.io/badge/-Node.js-7dd3fc?style=flat-square&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-7dd3fc?style=flat-square&logoColor=black)
-![Data Science](https://img.shields.io/badge/-Data_Science-7dd3fc?style=flat-square&logoColor=black)
+**Languages**
 
-</td>
-</tr>
-</table>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-| 🚀 Launched Projects | 🏆 Certifications | 🎯 Open To |
-|---|---|---|
-| *(add your repo names here)* | *(add your certifications here)* | Internships |
-| — | — | Collaborations |
-| — | — | Freelance Projects |
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Tools & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
 
 ---
 
@@ -68,66 +71,30 @@ Learning & Building
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 Project One
-<!-- 🔧 Replace "project-repo-1" below with your actual repo name -->
+#### 🔹 [Project One Name](https://github.com/your-username/project-one)
 
-[![Project One](https://github-readme-stats.vercel.app/api/pin/?username=msaaad7890-ops&repo=project-repo-1&theme=nord&border_color=7dd3fc&bg_color=0d1117&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc)](https://github.com/msaaad7890-ops/project-repo-1)
+**Tech Stack:** `React` · `Node.js` · `PostgreSQL` · `Docker`
 
-**One-line description:** *(add your project description here)*
+A full-stack task management platform that lets teams collaborate in real time, featuring live updates via WebSockets, role-based access control, and a Dockerized deployment pipeline for one-command setup.
 
-| Layer      | Technology |
-|------------|------------|
-| Frontend   | *(fill in)* |
-| Backend    | *(fill in)* |
-| Database   | *(fill in)* |
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-7dd3fc?style=flat-square&logo=vercel&logoColor=black)](#)
-[![View Code](https://img.shields.io/badge/View_Code-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/msaaad7890-ops/project-repo-1)
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username/project-one)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-1f6feb?style=flat-square&logo=vercel&logoColor=white)](https://project-one-demo.dev)
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 Project Two
-<!-- 🔧 Replace "project-repo-2" below with your actual repo name -->
+#### 🔹 [Project Two Name](https://github.com/your-username/project-two)
 
-[![Project Two](https://github-readme-stats.vercel.app/api/pin/?username=msaaad7890-ops&repo=project-repo-2&theme=nord&border_color=7dd3fc&bg_color=0d1117&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc)](https://github.com/msaaad7890-ops/project-repo-2)
+**Tech Stack:** `Python` · `FastAPI` · `Machine Learning` · `AWS`
 
-**One-line description:** *(add your project description here)*
+An ML-powered analytics tool that ingests raw datasets and generates automated insight reports, cutting manual analysis time by over 60% through a clean API and interactive dashboard.
 
-| Layer      | Technology |
-|------------|------------|
-| Frontend   | *(fill in)* |
-| Backend    | *(fill in)* |
-| Database   | *(fill in)* |
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-7dd3fc?style=flat-square&logo=vercel&logoColor=black)](#)
-[![View Code](https://img.shields.io/badge/View_Code-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/msaaad7890-ops/project-repo-2)
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username/project-two)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-1f6feb?style=flat-square&logo=vercel&logoColor=white)](https://project-two-demo.dev)
 
 </td>
 </tr>
 </table>
-
-> 🔧 **Note:** Once you have your repo names ready, replace `project-repo-1` / `project-repo-2` in the URLs above with your real repository names so the pin cards render correctly.
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,py&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
-
-**AI / Data**
-
-<img src="https://skillicons.dev/icons?i=py,mysql&theme=dark" />
 
 ---
 
@@ -135,20 +102,16 @@ Learning & Building
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=msaaad7890-ops&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaaad7890-ops&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&title_color=7dd3fc&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=msaaad7890-ops&theme=nord-dark&hide_border=true&background=0d1117&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=msaaad7890-ops&theme=nord&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=1f6feb&fire=58A6FF&currStreakLabel=58A6FF" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=msaaad7890-ops&theme=nord-dark&hide_border=true&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=c9d1d9" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=1f6feb&point=c9d1d9" width="100%"/>
 
 </div>
 
@@ -156,17 +119,10 @@ Learning & Building
 
 <div align="center">
 
-### 🤝 Connect With Me
+### 🤝 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.saaad147@gmail.com)
+I'm always open to interesting conversations, collaborations, or a good architecture debate. Reach out through any of the links above — I usually respond within a day.
 
-<!-- 🔧 Add more social links below when ready, e.g.: -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin) -->
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_handle) -->
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev) -->
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
